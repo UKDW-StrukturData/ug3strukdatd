@@ -16,8 +16,11 @@ Pemain 3: [3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51]
 Pemain 4: [4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52]
 
 Tidak masalah jika kartu yang didapat antar pemain tidak sama jumlahnya. 
+
 Contoh:
+
 Jumlah pemain: 5
+
 Pemain 1: [1, 6, 11, 16, 21, 26, 31, 36, 41, 46, 51]
 
 Pemain 2: [2, 7, 12, 17, 22, 27, 32, 37, 42, 47, 52]
