@@ -24,3 +24,7 @@ Pemain 5: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
 Bisa dilihat bahwa pemain 1 dan 2 mempunyai jumlah kartu yg lebih banyak.
 
 output: 
+
+![alt text](https://github.com/UKDW-StrukturData/ug3strukdatd/blob/main/Screenshot_2023-09-11-10-33-23-678_ru.iiec.pydroid3.png)
+
+![b](https://github.com/UKDW-StrukturData/ug3strukdatd/blob/main/Screenshot_2023-09-11-10-33-49-858_ru.iiec.pydroid3.png)
